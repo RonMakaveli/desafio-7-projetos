@@ -37,6 +37,4 @@ Status do Projeto: Concluido :heavy_check_mark:
     <li>Criação de <em>loops</em> com tempo específico de execução para cada elemento</li>
 </ul>
 
-> Status do Projeto: Concluido :heavy_check_mark:
-
 ---
