@@ -16,7 +16,7 @@ Status do Projeto: Concluido :heavy_check_mark:
 
 #### *HTML:*
 <ul>
-    <li>Vimos sobre data-key</li>
+    <li>Atributo data-key</li>
     <li>Tag audio</li>
 </ul>
 
@@ -36,5 +36,7 @@ Status do Projeto: Concluido :heavy_check_mark:
     <li>Onde e quando utilizar um <em>setTimeout</em></li>
     <li>Criação de <em>loops</em> com tempo específico de execução para cada elemento</li>
 </ul>
+
+> Status do Projeto: Concluido :heavy_check_mark:
 
 ---
