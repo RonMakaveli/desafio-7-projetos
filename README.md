@@ -12,4 +12,4 @@ Série de Projetos em JavaScript - Desafio 7 Projetos em 7 dias
 
 Status do Projeto: Concluido :heavy_check_mark:
 
-<h4>Esses foram alguns dos temas abordados nesse primeiro projeto</h4>
+#### Esses foram alguns dos temas abordados nesse primeiro projeto
