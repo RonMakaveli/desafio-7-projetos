@@ -30,11 +30,11 @@ Status do Projeto: Concluido :heavy_check_mark:
 #### *JavaScript:*
 <ul>
     <li>Eventos</li>
-    <li>Transformação de ***strings*** em ***arrays***</li>
-    <li>Manipulação da tag ***audio*** (tocar, zerar, reiniciar)</li>
-    <li>Troca de ***classes*** em ***elementos***</li>
-    <li>Onde e quando utilizar um ***setTimeout***</li>
-    <li>Criação de ***loops*** com tempo específico de execução para cada elemento</li>
+    <li>Transformação de <em>strings</em> em <em>arrays</em></li>
+    <li>Manipulação da tag <em>audio</em> (tocar, zerar, reiniciar)</li>
+    <li>Troca de <em>classes</em> em <em>elementos</em></li>
+    <li>Onde e quando utilizar um <em>setTimeout</em></li>
+    <li>Criação de <em>loops</em> com tempo específico de execução para cada elemento</li>
 </ul>
 
 ---
