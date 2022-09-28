@@ -12,13 +12,29 @@ Série de Projetos em JavaScript - Desafio 7 Projetos em 7 dias
 
 Status do Projeto: Concluido :heavy_check_mark:
 
-### *Esses foram alguns dos temas abordados nesse primeiro projeto.*
+### *Esses foram alguns dos temas que foram abordados nesse primeiro projeto.*
 
 #### *HTML:*
 <ul>
     <li>Vimos sobre data-key</li>
-        <p>permite ao autor armazenar informações extras em elementos HTML sem a necessidade de uso de um elemento não semântico<br>
-         ou de poluir os nomes de classes, como fazíamos na HTML anterior com o uso de atributos personalizados.</p>
     <li>Tag audio</li>
-        <p>O elemento audio é utilizado para embutir conteúdo de som em um documento HTML ou XHTML.</p>
 </ul>
+
+#### *CSS:*
+<ul>
+    <li>Display grid</li>
+    <li>Grid Template Columns</li>
+    <li>Pseudo Classes</li>
+</ul>
+
+#### *JavaScript:*
+<ul>
+    <li>Eventos</li>
+    <li>Transformação de *strings* em *arrays*</li>
+    <li>Manipulação da tag *audio* (tocar, zerar, reiniciar)</li>
+    <li>Troca de *classes* em *elementos*</li>
+    <li>Onde e quando utilizar um *setTimeout*</li>
+    <li>Criação de *loops* com tempo específico de execução para cada elemento</li>
+</ul>
+
+---
