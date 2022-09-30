@@ -12,7 +12,7 @@ Série de Projetos em JavaScript - Desafio 7 Projetos em 7 dias
 
 ## *O segundo projeto foi desenvolver um relógio.*
 
-### *Esses são os objetivos do primeiro projeto.*
+### *Esses são os objetivos do segundo projeto.*
 
 - [X] Um relógio analógico com animação dos ponteiros.
 - [X] Um relógio digital com atualização em tempo real.
