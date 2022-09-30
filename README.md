@@ -10,7 +10,7 @@ Série de Projetos em JavaScript - Desafio 7 Projetos em 7 dias
 - [X] Na area de input poderemos escrever uma sequencia de teclas para criar um ritmo.
 - [X] O botão precisará inicializar a leitura do input, assim executando o ritmo.
 
-## *O segundo projeto foi desenvolver uma um relógio.*
+## *O segundo projeto foi desenvolver um relógio.*
 
 ### *Esses são os objetivos do primeiro projeto.*
 
