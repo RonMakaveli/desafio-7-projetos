@@ -10,9 +10,17 @@ Série de Projetos em JavaScript - Desafio 7 Projetos em 7 dias
 - [X] Na area de input poderemos escrever uma sequencia de teclas para criar um ritmo.
 - [X] O botão precisará inicializar a leitura do input, assim executando o ritmo.
 
+## *O segundo projeto foi desenvolver uma um relógio.*
+
+### *Esses são os objetivos do primeiro projeto.*
+
+- [X] Um relógio analógico com animação dos ponteiros.
+- [X] Um relógio digital com atualização em tempo real.
+- [X] Obviamente, ambos os relógios devem estar sincronizados.
+
 Status do Projeto: Concluido :heavy_check_mark:
 
-### *Esses foram alguns dos temas que foram abordados nesse projeto de modo geral.*
+### *Esses foram alguns dos temas que foram abordados (e muito bem estudados) durante esses desafios.*
 
 #### *HTML:*
 <ul>
