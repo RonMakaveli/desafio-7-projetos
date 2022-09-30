@@ -12,7 +12,7 @@ Série de Projetos em JavaScript - Desafio 7 Projetos em 7 dias
 
 Status do Projeto: Concluido :heavy_check_mark:
 
-### *Esses foram alguns dos temas que foram abordados nesse primeiro projeto.*
+### *Esses foram alguns dos temas que foram abordados nesse projeto de modo geral.*
 
 #### *HTML:*
 <ul>
@@ -35,6 +35,13 @@ Status do Projeto: Concluido :heavy_check_mark:
     <li>Troca de <em>classes</em> em <em>elementos</em></li>
     <li>Onde e quando utilizar um <em>setTimeout</em></li>
     <li>Criação de <em>loops</em> com tempo específico de execução para cada elemento</li>
+    
+---
+    
+    <li>Manipulação de data e hora</li>
+    <li>Animações Css In Js</li>
+    <li>Cálculo do ângulo através da circunferência e do tempo</li>
+    <li>Element InnerHTML</li>
 </ul>
 
 ---
