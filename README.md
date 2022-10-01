@@ -26,6 +26,7 @@ Status do Projeto: Concluido :heavy_check_mark:
 <ul>
     <li>Atributo data-key</li>
     <li>Tag audio</li>
+    <li>Tag sup</li>
 </ul>
 
 #### *CSS:*
@@ -55,3 +56,14 @@ Status do Projeto: Concluido :heavy_check_mark:
 </ul>
 
 ---
+
+<ul>
+    <li>Consumo <em>API</em> externa</li>
+    <li>Manipulaçao de <em>API</em></li>
+    <li>Montagem de <em>objeto</em></li>
+    <li>Manipulação do <em>JSON</em></li>
+    <li><em>encodeURI</em></li>
+    <li><em>Fetch, Promisses, Async</em></li>
+    <li>Seção de <em>network</em> no console</li>
+    <li><em>setattribute</em></li>
+</ul>
