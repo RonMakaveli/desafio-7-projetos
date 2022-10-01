@@ -47,7 +47,7 @@ Status do Projeto: Concluido :heavy_check_mark:
 
 ---
 
-<li>
+<ul>
     <li>Manipulação de data e hora</li>
     <li>Animações <em>Css In Js</em></li>
     <li>Cálculo do ângulo através da circunferência e do tempo</li>
