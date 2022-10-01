@@ -30,7 +30,7 @@ Status do Projeto: Concluido :heavy_check_mark:
 - [X] Um relógio digital com atualização em tempo real.
 - [X] Obviamente, ambos os relógios devem estar sincronizados.
 
-Status do Projeto: Em construção ⚠️:
+Status do Projeto: Em construção :construction:
 
 ### *Esses foram alguns dos temas que foram abordados (e muito bem estudados) durante esses desafios.*
 
