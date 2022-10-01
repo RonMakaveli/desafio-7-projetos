@@ -43,6 +43,11 @@ Status do Projeto: Concluido :heavy_check_mark:
     <li>Troca de <em>classes</em> em <em>elementos</em></li>
     <li>Onde e quando utilizar um <em>setTimeout</em></li>
     <li>Criação de <em>loops</em> com tempo específico de execução para cada elemento</li>
+</ul>
+
+---
+
+<li>
     <li>Manipulação de data e hora</li>
     <li>Animações <em>Css In Js</em></li>
     <li>Cálculo do ângulo através da circunferência e do tempo</li>
