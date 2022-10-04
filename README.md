@@ -32,7 +32,7 @@ Status do Projeto: Concluido :heavy_check_mark:
 
 Status do Projeto: Em construção :construction:
 
-### *Esses foram alguns dos temas que foram abordados (e muito bem estudados) durante esses desafios.*
+### *Temas que foram abordados (e muito bem estudados) durante esses desafios.*
 
 #### *HTML:*
 <ul>
