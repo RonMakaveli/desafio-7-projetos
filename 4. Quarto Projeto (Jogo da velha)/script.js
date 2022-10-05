@@ -9,6 +9,8 @@ let player = '';
 let warning = '';
 let playing = false;
 
+reset();
+
 //Events
 document.querySelector('.reset').addEventListener('click', reset);
 document.querySelectorAll('.item').forEach(item => {
@@ -18,7 +20,7 @@ document.querySelectorAll('.item').forEach(item => {
 //Functions
 function itemClick(event){
     let item = event.target.getAttribute('data-item');
-    if(square[item] === ''){
+    if(playing && square[item] === ''){
         square[item] = player;
         renderSquare();
         togglePlayer();
@@ -29,7 +31,7 @@ function reset(){
     warning = '';
 
     let random = Math.floor(Math.random() * 2);
-    player = (random === 0) ? 'x' : '0';
+    player = (random === 0) ? 'x' : 'o';
 
     for(let i in square){
         square[i] = '';
@@ -76,12 +78,35 @@ function checkGame(){
 
 function checkWinnerFor(player){
     let pos = [
-        'a1', 'a2', 'a3',
-        'b1', 'b2', 'b3',
-        'c1', 'c2', 'c3',
+        'a1,a2,a3',
+        'b1,b2,b3',
+        'c1,c2,c3',
+
+        'a1,b1,c1',
+        'a2,b2,c2',
+        'a3,b3,c3',
+
+        'a1,b2,c3',
+        'a3,b2,c1'
     ];
+
+    for(let w in pos){
+        let pArray = pos[w].split(','); // a1, a2, a3
+        let hasWon = pArray.every(option => square[option] === player);
+        if(hasWon){
+            return true;
+        }
+    }
+
+    return false;
 }
 
 function isFull(){
+    for(let i in square){
+        if(square[i] === ''){
+            return false;
+        }
+    } 
 
+    return true;
 }
