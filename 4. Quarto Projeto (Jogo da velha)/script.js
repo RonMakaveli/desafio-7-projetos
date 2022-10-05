@@ -47,6 +47,8 @@ function renderSquare(){
         let item = document.querySelector(`div[data-item=${i}]`);
         item.innerHTML = square[i];
     }
+
+    checkGame();
 }
 
 function renderInfo(){
@@ -57,4 +59,29 @@ function renderInfo(){
 function togglePlayer(){
     player = (player === 'x') ? 'o' : 'x';
     renderInfo();
+}
+
+function checkGame(){
+    if(checkWinnerFor('x')){
+        warning = 'O "X" Venceu'
+        playing = false;
+    } else if(checkWinnerFor('o')){
+        warning = 'O "O" Venceu';
+        playing = false
+    } else if(isFull()){
+        warning = 'Deu empate';
+        playing = false;
+    }
+}
+
+function checkWinnerFor(player){
+    let pos = [
+        'a1', 'a2', 'a3',
+        'b1', 'b2', 'b3',
+        'c1', 'c2', 'c3',
+    ];
+}
+
+function isFull(){
+
 }
