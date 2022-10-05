@@ -19,4 +19,20 @@ function reset(){
     let random = Math.floor(Math.random() * 2);
     player = (random === 0) ? 'x' : '0';
 
+    for(let i in square){
+        square[i] = '';
+    }
+
+    playing = true;
+
+    renderSquare();
+    renderInfo();
+
+}
+
+function renderSquare(){
+    for(let i in square){
+        console.log("ITEM: ", i);
+        let item = document.querySelector(`div[data-item=${i}]`);
+    }
 }
