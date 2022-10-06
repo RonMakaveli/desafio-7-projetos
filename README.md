@@ -1,5 +1,5 @@
 # desafio-7-projetos
-Série de Projetos em JavaScript - Desafio 7 Projetos em 7 dias 
+Série de Projetos em JavaScript - Desafio 7 Projetos em 7 dias.<br>
 Dentro de cada pasta você encontrará a descrição detalhada de cada um dos programas.
 
 ### *Temas que foram abordados (e muito bem estudados) durante esses desafios.*
