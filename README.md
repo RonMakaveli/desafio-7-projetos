@@ -5,15 +5,7 @@ Série de Projetos em JavaScript - Desafio 7 Projetos em 7 dias
 
 
 
-## *O Terceiro projeto foi desenvolver um Website que exibe o clima em tempo real.*
 
-### *Esses são os objetivos do terceiro projeto.*
-
-- [X] Criar funções que consumam dados de uma api externa.
-- [X] Tratar esses dados organizando-os sequencialmente.
-- [ ] Exibir as informações pesquisadas na tela.
-
-Status do Projeto: Em construção :construction:
 
 ### *Temas que foram abordados (e muito bem estudados) durante esses desafios.*
 
