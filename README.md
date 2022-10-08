@@ -10,9 +10,9 @@ Dentro de cada pasta você encontrará a descrição detalhada de cada um dos pr
         <p><em>permite ao autor armazenar informações extras em elementos HTML<br>
            sem a necessidade de uso de um elemento não semântico ou de poluir os nomes de classes</em></p>
     <li>Tag audio</li>
-        <p>O elemento audio é utilizado para embutir conteúdo de som em um documento HTML ou XHTML</p>
+        <p><em>O elemento audio é utilizado para embutir conteúdo de som em um documento HTML ou XHTML.</em></p>
     <li>Tag sup</li>
-        <p>A '<sup>' tag define o texto sobrescrito. O texto sobrescrito aparece meio caractere acima da linha normal<br>
+        <p>A <sup> tag define o texto sobrescrito. O texto sobrescrito aparece meio caractere acima da linha normal<br>
             às vezes, é renderizado em uma fonte menor.</p>
 </ul>
 
