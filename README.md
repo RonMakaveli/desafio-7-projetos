@@ -7,6 +7,7 @@ Dentro de cada pasta você encontrará a descrição detalhada de cada um dos pr
 #### *HTML:*
 <ul>
     <li>Atributo data-key</li>
+    <p>permite ao autor armazenar informações extras em elementos HTML sem a necessidade de uso de um elemento não semântico ou de poluir os nomes de classes</p>
     <li>Tag audio</li>
     <li>Tag sup</li>
 </ul>
