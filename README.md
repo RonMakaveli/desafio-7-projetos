@@ -12,6 +12,8 @@ Dentro de cada pasta você encontrará a descrição detalhada de cada um dos pr
     <li>Tag audio</li>
         <p>O elemento audio é utilizado para embutir conteúdo de som em um documento HTML ou XHTML</p>
     <li>Tag sup</li>
+        <p>A <sup>tag define o texto sobrescrito. O texto sobrescrito aparece meio caractere acima da linha normal<br>
+            às vezes, é renderizado em uma fonte menor.</p>
 </ul>
 
 #### *CSS:*
