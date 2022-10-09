@@ -20,7 +20,7 @@ Dentro de cada pasta você encontrará a descrição detalhada de cada um dos pr
 <ul>
     <li><a href="https://www.w3schools.com/css/css_grid.asp">Display grid</li>
     <li><a href="https://www.w3schools.com/cssref/pr_grid-template-columns.asp">Grid Template Columns<a/></li>
-    <li>Pseudo Classes</li>
+    <li><a href="https://www.w3schools.com/css/css_pseudo_classes.asp">Pseudo Classes</a></li>
 </ul>
 
 #### *JavaScript:*
