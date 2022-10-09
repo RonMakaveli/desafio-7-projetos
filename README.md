@@ -18,7 +18,7 @@ Dentro de cada pasta você encontrará a descrição detalhada de cada um dos pr
 
 #### *CSS:*
 <ul>
-    <li>Display grid</li>
+    <li><a href="https://www.w3schools.com/css/css_grid.asp">Display grid</li>
     <li>Grid Template Columns</li>
     <li>Pseudo Classes</li>
 </ul>
