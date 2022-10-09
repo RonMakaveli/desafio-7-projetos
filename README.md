@@ -19,7 +19,7 @@ Dentro de cada pasta você encontrará a descrição detalhada de cada um dos pr
 #### *CSS:*
 <ul>
     <li><a href="https://www.w3schools.com/css/css_grid.asp">Display grid</li>
-    <li>Grid Template Columns</li>
+    <li>a< href="https://www.w3schools.com/cssref/pr_grid-template-columns.asp">Grid Template Columns<a/></li>
     <li>Pseudo Classes</li>
 </ul>
 
