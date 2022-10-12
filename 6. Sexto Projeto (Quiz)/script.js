@@ -48,4 +48,5 @@ function optionClickEvent(e){
 function finishQuiz(){
     document.querySelector('.scoreArea').style.display = 'block';
     document.querySelector('.questionArea').style.display = 'none';
+    document.querySelector('.progress--bar').style.width = '100%';
 }
