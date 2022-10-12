@@ -38,9 +38,9 @@ function showQuestion(){
 }
 
 function optionClickEvent(e){
-    let clickedOption = parseInt(e.target.gettAtribute('data-op'));
+    let clickedOption = parseInt(e.target.getAttribute('data-op'));
 
-    if(question[currentQuention].answer === clickedOption){
+    if(questions[currentQuention].answer === clickedOption){
         correctAnswers++;
     }
 
