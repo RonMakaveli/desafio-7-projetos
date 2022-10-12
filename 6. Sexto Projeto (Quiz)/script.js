@@ -9,6 +9,8 @@ function showQuestion(){
     if(questions[currentQuention]){
         let q = questions[currentQuention];
 
+        let pct = Math.floor((currentQuention / questions.length) * 100);
+
         document.querySelector('.scoreArea').style.display = 'none';
         document.querySelector('.questionArea').style.display = 'block';
 
