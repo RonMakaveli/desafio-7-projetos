@@ -1,5 +1,6 @@
 //Dados Iniciais
 let currentQuention = 0; //Array começa no 0.
+let correctAnswers = 0;
 
 showQuestion();
 
@@ -31,5 +32,12 @@ function showQuestion(){
 }
 
 function optionClickEvent(e){
-    let clickedOption = e.target.gettAtribute('data-op');
+    let clickedOption = parseInt(e.target.gettAtribute('data-op'));
+
+    if(question[currentQuention].answer === clickedOption){
+        correctAnswers++;
+    }
+
+    currentQuention++;
+    showQuestion();
 }
