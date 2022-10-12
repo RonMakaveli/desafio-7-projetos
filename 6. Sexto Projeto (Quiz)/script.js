@@ -3,7 +3,6 @@ let currentQuention = 0; //Array começa no 0.
 
 showQuestion();
 
-
 //Funções
 function showQuestion(){
     if(questions[currentQuention]){
@@ -22,7 +21,15 @@ function showQuestion(){
         }
         document.querySelector('.options').innerHTML = optionsHtml;
 
+        document.querySelectorAll('.options .option').forEach(item =>{
+            item.addEventListener('click', optionClickEvent);
+        });
+
     } else {
 
     }
+}
+
+function optionClickEvent(e){
+    let clickedOption = e.target.gettAtribute('data-op');
 }
