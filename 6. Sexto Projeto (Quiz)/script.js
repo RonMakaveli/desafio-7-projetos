@@ -10,6 +10,7 @@ function showQuestion(){
         let q = questions[currentQuention];
 
         let pct = Math.floor((currentQuention / questions.length) * 100);
+        document.querySelector('.progress--bar').style.width = `${pct}%`;
 
         document.querySelector('.scoreArea').style.display = 'none';
         document.querySelector('.questionArea').style.display = 'block';
@@ -29,7 +30,7 @@ function showQuestion(){
         });
 
     } else {
-
+        finishQuiz();
     }
 }
 
@@ -42,4 +43,9 @@ function optionClickEvent(e){
 
     currentQuention++;
     showQuestion();
+}
+
+function finishQuiz(){
+    document.querySelector('.scoreArea').style.display = 'block';
+    document.querySelector('.questionArea').style.display = 'none';
 }
